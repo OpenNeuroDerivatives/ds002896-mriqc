@@ -1,0 +1,12 @@
+Warning: Permanently added 'c190-174' (ED25519) to the list of known hosts.
+WARNING (09/19/22 01:26:14): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4837649.hostlist.WftFEMeC to get hosts
+starting job on c190-174
+starting job on c190-191
+starting job on c191-012
+starting job on c191-031
+starting job on c191-041
+starting job on c191-173
+starting job on c191-193
+starting job on c191-203
+Terminated
